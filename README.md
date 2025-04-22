@@ -1,0 +1,1 @@
+# Openkore-Brasil-Macros
