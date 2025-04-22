@@ -1,7 +1,7 @@
 
 # 📦 Biblioteca de Macros para OpenKore
 
-Uma coleção de macros úceis para automatizar ações no [OpenKore](https://openkore.com/), o bot open source para Ragnarok Online. Ideal para quem quer otimizar rotinas, farm, suporte ou tarefas repetitivas no jogo.
+Uma coleção de macros úceis para automatizar ações no [OpenKore](https://openkore.com/).
 
 ## ✨ Funcionalidades
 
@@ -103,4 +103,4 @@ Se você não manja de Git, pode só abrir uma [Issue](https://github.com/seu-us
 ## 🧙‍♂️ Créditos
 
 Feito por entusiastas do Ragnarok e do OpenKore.  
-Se você curte automação e scripting, junte-se a nós!
+Junte-se a nós!
